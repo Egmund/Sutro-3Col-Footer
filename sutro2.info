@@ -1,0 +1,32 @@
+type = layout
+name = Sutro2
+version = BACKDROP_VERSION
+backdrop = 1.x
+
+; Specify regions for this layout.
+regions[header]     = Header
+regions[top]        = Top
+regions[content]    = Content
+regions[half1]      = First Half
+regions[half2]      = Second Half
+regions[bottom]     = Bottom
+regions[footer]     = Footer
+regions[footertop1]     = FooterTop 1
+regions[footertop2]     = FooterTop 2
+regions[footertop3]     = FooterTop 3
+
+; The default region automatically receives the "Main Content" block if needed.
+default region = content
+
+; Include a file for special preprocessing of this layout's variables.
+; file = sutro2.php
+
+; Default stylesheets for this layout
+; stylesheets[all][] = sutro2.css
+
+; Preview
+preview = sutro2.png
+
+; Include the Bootstrap4 Grid System
+libraries[] = bootstrap4-gs
+
