@@ -1,7 +1,7 @@
 Sutro2
 ======
 
-Sutro2 is a version of Moscone with three columns in the top of footer region.
+Sutro2 is a version of Sutro with three columns in the top of footer region.
 It was created as a result of inspiration and confusion from/by the receip-module 'Digital Agency'.
 
 Installation
