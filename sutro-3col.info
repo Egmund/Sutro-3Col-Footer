@@ -1,5 +1,5 @@
 type = layout
-name = Sutro2
+name = Sutro 3Col Footer
 version = BACKDROP_VERSION
 backdrop = 1.x
 
@@ -19,13 +19,13 @@ regions[footertop3]     = FooterTop 3
 default region = content
 
 ; Include a file for special preprocessing of this layout's variables.
-; file = sutro2.php
+; file = sutro-3col.php
 
 ; Default stylesheets for this layout
-; stylesheets[all][] = sutro2.css
+; stylesheets[all][] = sutro-3col.css
 
 ; Preview
-preview = sutro2.png
+preview = sutro-3col.png
 
 ; Include the Bootstrap4 Grid System
 libraries[] = bootstrap4-gs
