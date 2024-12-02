@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Template for the Sutro layout.
+ * Template for the Sutro 3Col Footer layout.
  *
  * Variables:
  * - $title: The page title, for use in the actual HTML content.
@@ -112,4 +112,4 @@
       </div>
     </footer>
   <?php endif; ?>
-</div><!-- /.layout--sutro -->
+</div><!-- /.layout--sutro-3col -->
